@@ -58,9 +58,4 @@ Analyze sales data to identify trends, relationships, and factors affecting sale
 - [Datasets](https://github.com/yannie28/Global-Superstore/tree/master):  
   - `GlobalSuperstore.csv` (for Task 2.1)
   - `sales_data.csv` (for Task 2.2)  
-
-### Instructions  
-1. **Clone the repository**  
-   ```bash
-   git clone [your-repository-url]
    
