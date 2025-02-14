@@ -45,8 +45,3 @@ This project aims to perform customer segmentation using clustering techniques t
 ## Dependencies
 - Python 3.x
 - Libraries: `pandas`, `numpy`, `matplotlib`, `seaborn`, `scikit-learn`
-
-## How to Run
-1. Clone the repository.
-   ```bash
-   git clone <repository_url>
