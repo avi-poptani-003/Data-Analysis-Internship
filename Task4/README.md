@@ -60,8 +60,3 @@ This project aims to predict house prices based on various features using a line
 3. **Correlation Heatmap**: Visualized relationships between features and the target variable.
 
 ---
-
-## How to Run
-1. Clone the repository:
-   ```bash
-   git clone <repository_url>
